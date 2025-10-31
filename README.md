@@ -1,18 +1,63 @@
-## Getting Started
+## Estructura de datos
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+**Estudiante:** Juliana Torres
 
-## Folder Structure
+## Algoritmos de Ordenamiento
 
-The workspace contains two folders by default, where:
+## SALIDA ESPERADA DE LA CONSOLA
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Menu
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+![alt text](assets/menu.png)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Método Seleccion Con Pasos Ascendente
 
-## Dependency Management
+![alt text](assets/sleccionPasos.png)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Método Seleccion Sin Pasos Ascendente
+
+![alt text](assets/sleccionSinPasosAsc.png)
+
+## Método Seleccion Con Pasos Descendente
+
+![alt text](assets/sleccioonPasosDes.png)
+
+## Método Seleccion Sin Pasos Descendente
+
+![alt text](assets/sleccionSinPasosDes.png)
+
+## Método Inserción Con Pasos Ascendente
+
+![alt text](assets/insercionPasosAsc.png)
+
+## Método Inserción Sin Pasos Ascendente
+
+![alt text](assets/insercionPSinPasosASc.png)
+
+## Método Inserción Con Pasos Descendente
+
+![alt text](assets/insercionPasosDesc.png)
+
+## Método Inserción Sin Pasos Descendente
+
+![alt text](assets/inssercionPSInpasosDEs.png)
+
+## Método Burbuja Con Pasos Ascendente
+
+![alt text](assets/burbujaPasosAsc.png)
+
+## Método Burbuja Sin Pasos Ascendente
+
+![alt text](assets/bubujaSinPasosAsc.png)
+
+## Método Burbuja Con Pasos Descendente
+
+![alt text](assets/BurbujaPasosDesc.png)
+
+## Método Burbuja Sin Pasos Descendente
+
+![alt text](assets/burubujaSinPasosDEsc.png)
+
+## Opción Salir
+
+![alt text](assets/salir.png)
